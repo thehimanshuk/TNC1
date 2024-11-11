@@ -1,0 +1,122 @@
+2024-11-05 18:27:15,061:INFO:File TC_Data_Wide.csv imported successfully.
+2024-11-06 13:10:44,562:INFO:File TC_Data_Wide.csv imported successfully.
+2024-11-06 13:20:04,958:INFO:File TC_Data_Wide.csv imported successfully.
+2024-11-06 13:20:58,883:INFO:File TC_Data_Wide.csv imported successfully.
+2024-11-06 13:27:38,315:INFO:File TC_Data_Wide.csv imported successfully.
+2024-11-06 14:34:31,150:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 14:35:48,207:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 14:40:58,165:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 14:44:30,560:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 14:44:51,002:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 15:21:41,902:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 15:30:52,070:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 15:52:18,238:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 15:54:28,675:ERROR:An error occurred during pivoting: 'Date'
+2024-11-06 16:01:32,796:ERROR:An error occurred during pivoting: 'Date'
+2024-11-06 16:04:47,207:ERROR:An error occurred during pivoting: 'Date'
+2024-11-06 16:08:37,638:ERROR:An error occurred during pivoting: 'Date'
+2024-11-06 16:10:59,674:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 16:14:00,115:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 16:14:13,279:INFO:Date conversion was successfully.
+2024-11-06 16:14:13,387:INFO:Pivoting was successfully.
+2024-11-06 16:14:13,394:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 16:16:48,690:INFO:Date conversion was successfully.
+2024-11-06 16:16:48,729:ERROR:An error occurred during pivoting: 'Emails'
+2024-11-06 16:18:39,627:INFO:Date conversion was successfully.
+2024-11-06 16:18:39,693:INFO:Pivoting was successfully.
+2024-11-06 16:18:39,693:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 16:23:47,938:INFO:Date conversion was successfully.
+2024-11-06 16:23:47,951:ERROR:An error occurred during pivoting: 'Emails'
+2024-11-06 16:24:30,395:INFO:Date conversion was successfully.
+2024-11-06 16:24:30,413:ERROR:An error occurred during pivoting: 'Emails'
+2024-11-06 16:25:30,922:INFO:Date conversion was successfully.
+2024-11-06 16:25:31,022:INFO:Pivoting was successfully.
+2024-11-06 16:25:31,023:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 16:26:45,132:INFO:Date conversion was successfully.
+2024-11-06 16:26:45,194:INFO:Pivoting was successfully.
+2024-11-06 16:26:45,194:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 16:27:49,095:INFO:Date conversion was successfully.
+2024-11-06 16:27:49,163:INFO:Pivoting was successfully.
+2024-11-06 16:27:49,167:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 16:36:53,478:INFO:Date conversion was successfully.
+2024-11-06 16:36:53,546:INFO:Pivoting was successfully.
+2024-11-06 16:36:53,546:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 16:47:13,099:INFO:Date conversion was successfully.
+2024-11-06 16:47:13,183:INFO:Pivoting was successfully.
+2024-11-06 16:47:13,185:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 16:55:05,388:INFO:Date conversion was successfully.
+2024-11-06 16:55:05,435:INFO:Pivoting was successfully.
+2024-11-06 16:55:05,452:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 19:01:28,234:INFO:File TC_Data_Wide.csv imported successfully.
+2024-11-06 19:01:44,640:INFO:File TC_Data_Wide.csv imported successfully.
+2024-11-06 19:28:31,961:INFO:Date conversion was successfully.
+2024-11-06 19:28:31,978:ERROR:An error occurred during pivoting: ' Delivered_Epocrates'
+2024-11-06 19:31:52,635:INFO:Date conversion was successfully.
+2024-11-06 19:34:09,189:INFO:Date conversion was successfully.
+2024-11-06 19:34:09,350:INFO:Pivoting was successfully.
+2024-11-06 19:34:09,350:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 19:55:13,123:INFO:Date conversion was successfully.
+2024-11-06 19:55:13,259:INFO:Pivoting was successfully.
+2024-11-06 19:55:13,261:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 20:30:56,333:INFO:Date conversion was successfully.
+2024-11-06 20:30:56,724:INFO:Pivoting was successfully.
+2024-11-06 20:30:56,737:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 20:31:05,424:INFO:Date conversion was successfully.
+2024-11-06 20:31:05,557:INFO:Pivoting was successfully.
+2024-11-06 20:31:05,566:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 20:31:54,477:INFO:Date conversion was successfully.
+2024-11-06 20:31:54,568:INFO:Pivoting was successfully.
+2024-11-06 20:31:54,568:INFO:File MMX_Data_PDE_Reduced_1.csv imported successfully.
+2024-11-06 20:32:52,577:INFO:Date conversion was successfully.
+2024-11-06 20:32:52,667:INFO:Pivoting was successfully.
+2024-11-06 20:32:52,667:INFO:File MMX_Data_PDE_Reduced_1.csv imported successfully.
+2024-11-06 20:35:13,513:INFO:Date conversion was successfully.
+2024-11-06 20:35:13,613:INFO:Pivoting was successfully.
+2024-11-06 20:35:13,616:INFO:File MMX_Data_PDE_Reduced_1.csv imported successfully.
+2024-11-06 20:37:59,669:INFO:Date conversion was successfully.
+2024-11-06 20:37:59,756:INFO:Pivoting was successfully.
+2024-11-06 20:37:59,756:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 20:44:53,175:INFO:Date conversion was successfully.
+2024-11-06 20:44:53,287:INFO:Pivoting was successfully.
+2024-11-06 20:44:53,302:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 20:55:08,012:INFO:File TC_Data_Wide.csv imported successfully.
+2024-11-06 20:56:56,770:INFO:Date conversion was successfully.
+2024-11-06 20:56:56,891:INFO:Pivoting was successfully.
+2024-11-06 20:56:56,891:INFO:File TC_Data_Long.csv imported successfully.
+2024-11-06 20:58:05,461:INFO:Date conversion was successfully.
+2024-11-06 20:58:05,497:INFO:Pivoting was successfully.
+2024-11-06 20:58:05,497:INFO:File TC_Data_Long.csv imported successfully.
+2024-11-06 20:58:18,873:INFO:Date conversion was successfully.
+2024-11-06 20:58:18,932:INFO:Pivoting was successfully.
+2024-11-06 20:58:18,938:INFO:File TC_Data_Long.csv imported successfully.
+2024-11-06 21:00:19,382:ERROR:Date conversion error: time data "2022-01" doesn't match format "%Y%m", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this..
+2024-11-06 21:00:19,383:ERROR:An error occurred during pivoting: Error: time data "2022-01" doesn't match format "%Y%m", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.. Please provide correct date format
+2024-11-06 21:04:11,369:INFO:Date conversion was successfully.
+2024-11-06 21:04:11,403:INFO:Pivoting was successfully.
+2024-11-06 21:04:11,415:INFO:File TC_Data_Long.csv imported successfully.
+2024-11-06 21:05:51,780:INFO:Date conversion was successfully.
+2024-11-06 21:05:51,979:INFO:Pivoting was successfully.
+2024-11-06 21:05:51,986:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 21:15:06,809:ERROR:An error occurred during pivoting: 'Date'
+2024-11-06 21:15:20,419:ERROR:An error occurred during pivoting: 'Date'
+2024-11-06 22:45:20,955:INFO:Date conversion was successfully.
+2024-11-06 22:45:21,142:INFO:Pivoting was successfully.
+2024-11-06 22:45:21,154:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 22:48:27,471:INFO:Date conversion was successfully.
+2024-11-06 22:48:27,632:INFO:Pivoting was successfully.
+2024-11-06 22:48:27,632:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-06 22:50:14,901:INFO:Date conversion was successfully.
+2024-11-06 22:50:15,001:INFO:Pivoting was successfully.
+2024-11-06 22:50:15,001:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-07 19:56:48,012:INFO:Date conversion was successfully.
+2024-11-07 19:56:48,196:INFO:Pivoting was successfully.
+2024-11-07 19:56:48,204:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-07 19:57:04,328:INFO:Date conversion was successfully.
+2024-11-07 19:57:04,415:INFO:Pivoting was successfully.
+2024-11-07 19:57:04,424:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
