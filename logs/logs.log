@@ -120,3 +120,27 @@
 2024-11-07 19:57:04,328:INFO:Date conversion was successfully.
 2024-11-07 19:57:04,415:INFO:Pivoting was successfully.
 2024-11-07 19:57:04,424:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-11 19:47:59,526:INFO:Date conversion was successfully.
+2024-11-11 19:47:59,763:INFO:Pivoting was successfully.
+2024-11-11 19:47:59,773:ERROR:An error occurred during creating TC column: module 'tc.config' has no attribute 'event_identifier'
+2024-11-11 19:49:25,732:INFO:Date conversion was successfully.
+2024-11-11 19:49:25,831:INFO:Pivoting was successfully.
+2024-11-11 19:49:25,840:ERROR:An error occurred during creating TC column: module 'tc.config' has no attribute 'event_identifier'
+2024-11-11 19:50:05,027:INFO:Date conversion was successfully.
+2024-11-11 19:50:05,177:INFO:Pivoting was successfully.
+2024-11-11 19:51:16,799:INFO:Date conversion was successfully.
+2024-11-11 19:51:16,934:INFO:Pivoting was successfully.
+2024-11-11 19:51:20,383:INFO:TC column was created successfully.
+2024-11-11 19:51:20,383:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-11 19:52:03,844:INFO:Date conversion was successfully.
+2024-11-11 19:52:03,952:INFO:Pivoting was successfully.
+2024-11-11 19:52:08,681:INFO:TC column was created successfully.
+2024-11-11 19:52:08,681:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-11 19:54:49,752:INFO:TC column was created successfully.
+2024-11-11 19:54:50,165:INFO:Date conversion was successfully.
+2024-11-11 19:54:50,346:INFO:Pivoting was successfully.
+2024-11-11 19:54:50,350:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
+2024-11-11 20:04:59,844:INFO:TC column was created successfully.
+2024-11-11 20:05:00,175:INFO:Date conversion was successfully.
+2024-11-11 20:05:00,355:INFO:Pivoting was successfully.
+2024-11-11 20:05:00,359:INFO:File MMX_Data_PDE_Reduced.csv imported successfully.
